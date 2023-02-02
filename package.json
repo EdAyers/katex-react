@@ -1,0 +1,11 @@
+{
+  "name": "katex-react",
+  "version": "1.0.0",
+  "description": "Katex but with react",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "",
+  "license": "MIT"
+}
